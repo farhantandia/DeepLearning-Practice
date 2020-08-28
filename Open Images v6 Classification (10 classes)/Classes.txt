@@ -1,0 +1,10 @@
+Airplane
+Bottle
+Camera
+Computer Mouse
+Cookie
+Laptop
+Mobile phone
+Motorcycle
+Swimming pool
+Zebra
