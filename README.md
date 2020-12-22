@@ -8,3 +8,4 @@ Model for deeplearning project :
  - BiLSTM for natural language processing on BBC news classification. - _Dicoding intermediate project 1_
  - BiLSTM for multivariate time series forecasting on action recognition (walking, jumping, standing, falling). - _Dicoding intermediate project 2_
  - Resnet15v2(Transfer Learning) + MLP for image classification of 10 classes google openimagesv6 dataset. - _Dicoding intermediate project 3_
+ - Resnet50 for Object Detection (Coco dataset)- _My first simple implementation objecy detection_
