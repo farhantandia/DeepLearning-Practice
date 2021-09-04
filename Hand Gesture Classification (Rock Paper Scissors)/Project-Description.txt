@@ -1,9 +1,0 @@
-Dataset is split to train set and validation set.
-Size of Validation set is 40% from total data.
-Implement the image augmentation.
-Using image data generator.
-Using Sequential model.
-Training time is not more than 30 minutes.
-Program run in Google Colaboratory.
-Minimum Accuracy is 85%.
-Can predict an uploaded image in Colab.
