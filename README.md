@@ -1,6 +1,5 @@
 # DeepLearning-Practice
 Framework : Tensorflow and Keras
-Model for deeplearning project :
  1. MLP from scratch for regression task using energy efficiency dataset and classification task using ionoshphere dataset. 
  2. CNN for image recognition/classification using MNIST & CIFAR-10 dataset.
  3. BiLSTM for natural language processing on BBC news classification.
