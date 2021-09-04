@@ -3,3 +3,5 @@ Open Images v6 Classification (10 classes)/Dataset
 *.tif
 *.txt
 Image Segmentation U-NET/mitochondria_Attention_UNet_50epochs_B_focal.hdf5
+Image Segmentation U-NET/mitochondria_AttResUnet_50epochs_B_focal.hdf5
+Image Segmentation U-NET/mitochondria_UNet_50epochs_B_focal.hdf5
