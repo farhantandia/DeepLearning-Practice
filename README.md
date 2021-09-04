@@ -8,3 +8,4 @@ Framework : Tensorflow and Keras
  6. Resnet50 for Object Detection (Coco dataset).
  7. Resnet15v2(Transfer Learning) + MLP for image classification of 10 classes google openimagesv6 dataset. 
  8. RNN & LSTM for natural language processing to generate paragraph/sentences of shakespeare novel. 
+ 9. U-Net and its variant for Image Segmentation
